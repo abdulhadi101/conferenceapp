@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'asuku'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d4489e94fb2e4359bed85527c47747ea }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_be8743f332024e8c9740da74932b58fa }}
